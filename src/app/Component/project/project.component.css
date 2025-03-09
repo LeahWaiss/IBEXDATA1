@@ -1,0 +1,14 @@
+/* :host ::ng-deep .p-dialog .product-image {
+    width: 150px;
+    margin: 0 auto 2rem auto;
+    display: block;
+} */
+.flex-container {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* רווח בין האלמנטים */
+  }
+  
+  .mr-4 {
+    margin-right: 16px; /* רווח בין התווית ל-checkbox */
+  }
